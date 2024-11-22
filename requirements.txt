@@ -1,2 +1,16 @@
 opencv-python==4.7.0.72
+streamlit
+tensorflow
+opencv-python
+numpy
+matplotlib
+streamlit>=1.26.0
+scikit-learn
+pandas
+matplotlib
+seaborn
+numpy
+streamlit
+tensorflow 
+opencv-python-headless
 
